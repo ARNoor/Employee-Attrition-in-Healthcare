@@ -11,7 +11,7 @@ This project addresses employee attrition in healthcare using Explainable AI (XA
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Algorithms](#-algorithms)
-- [XAI Techniques](#-explainable-ai-techniques)
+- [Explainable AI Techniques](#-explainable-ai-techniques)
 - [Hugging Face Deployment](#-hugging-face-deployment)
 
 ## 📝 Background
