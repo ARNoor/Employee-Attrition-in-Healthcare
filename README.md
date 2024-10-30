@@ -7,6 +7,7 @@ This project addresses employee attrition in healthcare using Explainable AI (XA
 - [Background](#-background)
 - [Objectives](#-objectives)
 - [Methodology](#-methodology)
+- [Dataset](#-dataset)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Algorithms](#-algorithms)
@@ -31,6 +32,23 @@ The project follows a structured approach to predict and analyze employee attrit
  <p align="center">
     <img src="Images\Attrition_Methodology_v2.png">
 </p>
+
+## 🗄️ Dataset
+
+The dataset used for this project contains records of healthcare employees, including personal attributes, job roles, working conditions, and performance metrics. Key features include:
+
+- **Age**
+- **Department**
+- **Job Role**
+- **Education**
+- **Job Satisfaction**
+- **Years at Company**
+- **Work-Life Balance**
+- **OverTime**
+- **Attrition (Target)**
+
+The dataset used for this project is publicly available and can be accessed [[here]](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare).
+
 
 ## ✨ Features
 
