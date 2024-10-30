@@ -74,7 +74,6 @@ This project employs a range of models, including shallow learning, ensemble met
 To provide transparency into the model’s predictions, we employ the following Explainable AI (XAI) techniques:
 
 - **SHAP (SHapley Additive exPlanations)**
-
 - **LIME (Local Interpretable Model-agnostic Explanations)**
 
 These methods make it possible to:
