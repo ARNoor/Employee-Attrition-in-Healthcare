@@ -47,7 +47,7 @@ The dataset used for this project contains records of healthcare employees, incl
 - **OverTime**
 - **Attrition (Target)**
 
-The dataset used for this project is publicly available and can be accessed [[here]](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare).
+The dataset used for this project is publicly available and can be accessed [here](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare).
 
 
 ## ✨ Features
