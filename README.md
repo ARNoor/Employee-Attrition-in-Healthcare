@@ -12,6 +12,7 @@ This project addresses employee attrition in healthcare using Explainable AI (XA
 - [Tech Stack](#-tech-stack)
 - [Algorithms](#-algorithms)
 - [XAI Techniques](#-explainable-ai-techniques)
+- [Hugging Face Deployment](#-hugging-face-deployment)
 
 ## 📝 Background
 
@@ -99,3 +100,18 @@ These methods make it possible to:
 1. **Identify Key Features**: Determine which features are most influential in predicting employee attrition.
 2. **Generate Visual Explanations**: Use SHAP summary and dependence plots, as well as LIME explanations, to interpret individual and global model behaviors.
 3. **Provide Actionable Insights**: By identifying top risk factors, management can focus on areas where improvements may reduce employee turnover.
+
+## 🌐 Hugging Face Deployment
+
+This project will be deployed on Hugging Face to provide easy access to the model and its predictions. The deployment allows users to input relevant employee data and receive insights about potential attrition.
+
+### Steps for Deployment:
+
+1. **Create a Hugging Face Account**: Sign up or log in to your Hugging Face account.
+2. **Set Up the Model**: Upload your trained model and any necessary files.
+3. **Create an Inference API**: Set up an API endpoint for the model.
+4. **Testing**: Test the API to ensure it works as expected.
+5. **Share the Link**: Provide the Hugging Face link for users to access the deployed model.
+
+*Note*: Ensure compliance with any data privacy regulations when deploying models that handle sensitive information.
+
