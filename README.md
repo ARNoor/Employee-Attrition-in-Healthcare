@@ -35,7 +35,7 @@ The project follows a structured approach to predict and analyze employee attrit
 
 ## 🗄️ Dataset
 
-The dataset used for this project contains records of healthcare employees, including personal attributes, job roles, working conditions, and performance metrics. Key features include:
+The dataset used for this project contains records of healthcare employees, including personal attributes, job roles, working conditions, and performance metrics. Key columns include:
 
 - **Age**
 - **Department**
