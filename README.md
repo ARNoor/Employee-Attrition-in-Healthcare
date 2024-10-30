@@ -98,4 +98,4 @@ These methods make it possible to:
 
 1. **Identify Key Features**: Determine which features are most influential in predicting employee attrition.
 2. **Generate Visual Explanations**: Use SHAP summary and dependence plots, as well as LIME explanations, to interpret individual and global model behaviors.
-3. **Provide Actionable Insights**: By identifying top risk factors, management can focus on areas where improvements may reduce empl
+3. **Provide Actionable Insights**: By identifying top risk factors, management can focus on areas where improvements may reduce employee turnover.
