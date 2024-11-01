@@ -91,14 +91,14 @@ This project employs a range of models, including shallow learning, ensemble met
 
 To provide transparency into the model’s predictions, we employ the following Explainable AI (XAI) techniques:
 
-- **SHAP (SHapley Additive exPlanations)**
 - **LIME (Local Interpretable Model-agnostic Explanations)**
+- **SHAP-Counterfactual Technique** 
 
 These methods make it possible to:
 
 1. **Identify Key Features**: Determine which features are most influential in predicting employee attrition.
-2. **Generate Visual Explanations**: Use SHAP summary and dependence plots, as well as LIME explanations, to interpret individual and global model behaviors.
-3. **Provide Actionable Insights**: By identifying top risk factors, management can focus on areas where improvements may reduce employee turnover.
+2. **Generate Visual Explanations**: Use LIME to interpret local instances.
+3. **Provide Actionable Insights**: Use SHAP-Counterfactual technique to suggest features and their direction of changes, where improvements may reduce employee turnover.
 
 ## 🌐 Hugging Face Deployment (WIP)
 
