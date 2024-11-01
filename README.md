@@ -60,10 +60,10 @@ The dataset used for this project is publicly available and can be accessed [her
 ## 🛠 Tech Stack
 
 - **Programming Language**: Python
-- **Machine Learning**: scikit-learn, TensorFlow, PyTorch
-- **Explainable AI**: SHAP, LIME
+- **Machine Learning**: scikit-learn, PyTorch
+- **Explainable AI**: LIME, SHAP-Counterfactual
 - **Data Processing**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
+- **Visualization**: Matplotlib, Seaborn, Plotly
 
 ## 📊 Algorithms
 
