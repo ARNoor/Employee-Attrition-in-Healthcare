@@ -100,7 +100,7 @@ These methods make it possible to:
 2. **Generate Visual Explanations**: Use SHAP summary and dependence plots, as well as LIME explanations, to interpret individual and global model behaviors.
 3. **Provide Actionable Insights**: By identifying top risk factors, management can focus on areas where improvements may reduce employee turnover.
 
-## 🌐 Hugging Face Deployment
+## 🌐 Hugging Face Deployment (WIP)
 
 This project will be deployed on Hugging Face to provide easy access to the model and its predictions. The deployment allows users to input relevant employee data and receive insights about potential attrition.
 
