@@ -100,17 +100,3 @@ These methods make it possible to:
 2. **Generate Visual Explanations**: Use LIME to interpret local instances.
 3. **Provide Actionable Insights**: Use SHAP-Counterfactual technique to suggest features and their direction of changes, where improvements may reduce employee turnover.
 
-## 🌐 Hugging Face Deployment (WIP)
-
-This project will be deployed on Hugging Face to provide easy access to the model and its predictions. The deployment allows users to input relevant employee data and receive insights about potential attrition.
-
-### Steps for Deployment:
-
-1. **Create a Hugging Face Account**: Sign up or log in to your Hugging Face account.
-2. **Set Up the Model**: Upload your trained model and any necessary files.
-3. **Create an Inference API**: Set up an API endpoint for the model.
-4. **Testing**: Test the API to ensure it works as expected.
-5. **Share the Link**: Provide the Hugging Face link for users to access the deployed model.
-
-*Note*: Ensure compliance with any data privacy regulations when deploying models that handle sensitive information.
-
