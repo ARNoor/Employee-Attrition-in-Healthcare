@@ -30,7 +30,7 @@ Employee attrition in healthcare can lead to staffing shortages, increased opera
 The project follows a structured approach to predict and analyze employee attrition using various models and XAI techniques. Below is an overview of the flow diagram of the methodology:
 
  <p align="center">
-    <img src="Images\Attrition_Methodology_v2.png">
+    <img src="Images\Attrition_Methodology-new.png">
 </p>
 
 ## 🗄️ Dataset
