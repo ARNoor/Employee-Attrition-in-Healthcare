@@ -1,0 +1,16 @@
+{
+  "status": "illustrative single run - NOT certified",
+  "panel": "E:\\5.1\\Service 6\\Project\\overleaf_figures\\tab_roc.png",
+  "roc_auc_fold1": 0.7867398648648649,
+  "stored_fold1_pr_auc": 0.5182326658918545,
+  "observed_metrics_this_run": {
+    "Accuracy": 0.7678571428571429,
+    "Precision": 0.6200997861724875,
+    "Recall": 0.7277027027027028,
+    "F1 Score": 0.6323232323232323,
+    "PR-AUC": 0.4383652185423629,
+    "Macro PR-AUC": 0.6955024558243863
+  },
+  "protocol": "notebook cell 45, Fold 1 only, single run: TabNetClassifier(verbose=0, seed=0) with torch/np seeds 0, eval_set on the test fold, patience=10, max_epochs=30",
+  "note": "TabNet training is non-deterministic in this environment (two protocol-identical runs of neural_roc_replication.py diverged by 9.7e-1 in per-instance scores), so this curve cannot be certified against the stored Fold-1 row and carries no bitwise-match claim. Drawn for illustration only."
+}

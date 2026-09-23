@@ -1,0 +1,7 @@
+N,Feasible_Set,Size
+32,DailyRate; JobInvolvement; MonthlyRate; OverTime; Shift; YearsSinceLastPromotion,6
+16,DailyRate; JobInvolvement; OverTime; Shift,4
+14,DailyRate; JobInvolvement; OverTime; Shift,4
+12,DailyRate; JobInvolvement; OverTime; Shift,4
+10,JobInvolvement; OverTime; Shift,3
+8,JobInvolvement; OverTime; Shift,3

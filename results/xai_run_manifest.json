@@ -1,0 +1,122 @@
+{
+  "representative_fold": 1,
+  "n_retained_features": 23,
+  "n_test_instances": 336,
+  "n_true_positives_explained": 31,
+  "seeds": {
+    "lime_main": 42,
+    "lime_stability_runs": 10,
+    "shap": 42,
+    "dice": 42,
+    "bootstrap": 42
+  },
+  "lime_num_features": 12,
+  "n_grid": [
+    32,
+    16,
+    14,
+    12,
+    10,
+    8
+  ],
+  "feasible_umbrella": [
+    "DailyRate",
+    "EnvironmentSatisfaction",
+    "HourlyRate",
+    "JobInvolvement",
+    "JobLevel",
+    "MonthlyRate",
+    "OverTime",
+    "Shift",
+    "YearsSinceLastPromotion"
+  ],
+  "feasible_umbrella_size": 9,
+  "feasible_umbrella_not_retained": [
+    "EnvironmentSatisfaction",
+    "JobLevel"
+  ],
+  "feasible_core": [
+    "JobInvolvement",
+    "OverTime",
+    "Shift"
+  ],
+  "feasible_sets_per_n": {
+    "32": [
+      "DailyRate",
+      "JobInvolvement",
+      "MonthlyRate",
+      "OverTime",
+      "Shift",
+      "YearsSinceLastPromotion"
+    ],
+    "16": [
+      "DailyRate",
+      "JobInvolvement",
+      "OverTime",
+      "Shift"
+    ],
+    "14": [
+      "DailyRate",
+      "JobInvolvement",
+      "OverTime",
+      "Shift"
+    ],
+    "12": [
+      "DailyRate",
+      "JobInvolvement",
+      "OverTime",
+      "Shift"
+    ],
+    "10": [
+      "JobInvolvement",
+      "OverTime",
+      "Shift"
+    ],
+    "8": [
+      "JobInvolvement",
+      "OverTime",
+      "Shift"
+    ]
+  },
+  "feasible_set_sizes": {
+    "32": 6,
+    "16": 4,
+    "14": 4,
+    "12": 4,
+    "10": 3,
+    "8": 3
+  },
+  "common_set_sizes": {
+    "32": 18,
+    "16": 14,
+    "14": 13,
+    "12": 9,
+    "10": 7,
+    "8": 5
+  },
+  "feasible_set_invariant_across_n": false,
+  "counterfactual_sets_per_n": {
+    "32": 93,
+    "16": 93,
+    "14": 93,
+    "12": 93,
+    "10": 93,
+    "8": 93
+  },
+  "counterfactual_output_varies_across_n": true,
+  "recommended_features": [
+    "DailyRate",
+    "JobInvolvement",
+    "MonthlyRate",
+    "OverTime",
+    "Shift",
+    "YearsSinceLastPromotion"
+  ],
+  "anchor_metrics": {
+    "Accuracy": 0.875,
+    "Precision": 0.725643,
+    "Recall": 0.831757,
+    "F1 Score": 0.761105,
+    "PR-AUC": 0.728821
+  }
+}

@@ -1,0 +1,7 @@
+Feature,Mean_Frequency,Lower_CI,Upper_CI
+Shift[inc],61.022,52.0,70.0
+DailyRate[inc],43.158,33.0,53.0
+OverTime[dec],39.895,31.0,49.0
+DailyRate[dec],38.075,29.0,48.0
+JobInvolvement[inc],8.983,4.0,15.0
+JobInvolvement[dec],0.969,0.0,3.0

@@ -1,0 +1,92 @@
+Model 1,Model 2,r,p_raw,p_adj,Sig
+Ada Boost,Logistic Regression,-1.0,0.0625,1.0,False
+Ada Boost,XGBoost,1.0,0.0625,1.0,False
+CNN,CatBoost,1.0,0.0625,1.0,False
+CNN,Decision Tree,1.0,0.0625,1.0,False
+CNN,Gradient Boosting,1.0,0.0625,1.0,False
+CNN,KNN,1.0,0.0625,1.0,False
+CNN,LightGBM,1.0,0.0625,1.0,False
+CNN,Random Forest,1.0,0.0625,1.0,False
+CNN,Stacking,1.0,0.0625,1.0,False
+CNN,TabNet,1.0,0.0625,1.0,False
+CNN,XGBoost,1.0,0.0625,1.0,False
+CatBoost,Decision Tree,1.0,0.0625,1.0,False
+CatBoost,Logistic Regression,-1.0,0.0625,1.0,False
+CatBoost,MLP,-1.0,0.0625,1.0,False
+Decision Tree,Logistic Regression,-1.0,0.0625,1.0,False
+Decision Tree,MLP,-1.0,0.0625,1.0,False
+Decision Tree,Random Forest,-1.0,0.0625,1.0,False
+Decision Tree,SVM,-1.0,0.0625,1.0,False
+Decision Tree,Stacking,-1.0,0.0625,1.0,False
+Gradient Boosting,Logistic Regression,-1.0,0.0625,1.0,False
+Gradient Boosting,MLP,-1.0,0.0625,1.0,False
+KNN,Logistic Regression,-1.0,0.0625,1.0,False
+KNN,MLP,-1.0,0.0625,1.0,False
+LightGBM,Logistic Regression,-1.0,0.0625,1.0,False
+LightGBM,SVM,-1.0,0.0625,1.0,False
+Logistic Regression,Random Forest,1.0,0.0625,1.0,False
+Logistic Regression,Stacking,1.0,0.0625,1.0,False
+Logistic Regression,TabNet,1.0,0.0625,1.0,False
+Logistic Regression,XGBoost,1.0,0.0625,1.0,False
+MLP,TabNet,1.0,0.0625,1.0,False
+MLP,XGBoost,1.0,0.0625,1.0,False
+Random Forest,SVM,-1.0,0.0625,1.0,False
+Random Forest,TabNet,1.0,0.0625,1.0,False
+SVM,TabNet,1.0,0.0625,1.0,False
+SVM,XGBoost,1.0,0.0625,1.0,False
+Ada Boost,CNN,-0.8666666666666667,0.125,1.0,False
+Ada Boost,Decision Tree,0.8666666666666667,0.125,1.0,False
+Ada Boost,Gradient Boosting,0.8666666666666667,0.125,1.0,False
+Ada Boost,KNN,0.8666666666666667,0.125,1.0,False
+Ada Boost,TabNet,0.8666666666666667,0.125,1.0,False
+CatBoost,KNN,0.8666666666666667,0.125,1.0,False
+CatBoost,SVM,-0.8666666666666667,0.125,1.0,False
+Decision Tree,Gradient Boosting,-0.8666666666666667,0.125,1.0,False
+Decision Tree,XGBoost,-0.8666666666666667,0.125,1.0,False
+Gradient Boosting,KNN,0.8666666666666667,0.125,1.0,False
+Gradient Boosting,SVM,-0.8666666666666667,0.125,1.0,False
+KNN,SVM,-0.8666666666666667,0.125,1.0,False
+KNN,Stacking,-0.8666666666666667,0.125,1.0,False
+MLP,Random Forest,0.8666666666666667,0.125,1.0,False
+SVM,Stacking,0.8666666666666667,0.125,1.0,False
+Stacking,TabNet,0.8666666666666667,0.125,1.0,False
+Stacking,XGBoost,0.8666666666666667,0.125,1.0,False
+CatBoost,Stacking,-0.7333333333333333,0.1875,1.0,False
+CatBoost,TabNet,0.7333333333333333,0.1875,1.0,False
+Decision Tree,LightGBM,-0.7333333333333333,0.1875,1.0,False
+Gradient Boosting,XGBoost,0.7333333333333333,0.1875,1.0,False
+KNN,Random Forest,-0.7333333333333333,0.1875,1.0,False
+Ada Boost,CatBoost,0.6,0.3125,1.0,False
+Ada Boost,LightGBM,0.6,0.3125,1.0,False
+Ada Boost,Random Forest,0.6,0.3125,1.0,False
+CatBoost,XGBoost,0.6,0.3125,1.0,False
+Decision Tree,TabNet,-0.6,0.3125,1.0,False
+Gradient Boosting,Stacking,-0.6,0.3125,1.0,False
+Gradient Boosting,TabNet,0.6,0.375,1.0,False
+KNN,XGBoost,-0.6,0.3125,1.0,False
+LightGBM,MLP,-0.6,0.3125,1.0,False
+MLP,Stacking,0.6,0.3125,1.0,False
+Ada Boost,SVM,-0.4666666666666667,0.4375,1.0,False
+CNN,MLP,0.4666666666666667,0.4375,1.0,False
+KNN,LightGBM,-0.4666666666666667,0.4375,1.0,False
+LightGBM,TabNet,0.4666666666666667,0.4375,1.0,False
+Random Forest,Stacking,-0.4666666666666667,0.4375,1.0,False
+Random Forest,XGBoost,0.4666666666666667,0.4375,1.0,False
+LightGBM,XGBoost,0.4,0.625,1.0,False
+Ada Boost,MLP,-0.3333333333333333,0.625,1.0,False
+CatBoost,Random Forest,-0.3333333333333333,0.625,1.0,False
+Gradient Boosting,Random Forest,-0.3333333333333333,0.625,1.0,False
+Logistic Regression,MLP,0.3333333333333333,0.625,1.0,False
+Logistic Regression,SVM,0.3333333333333333,0.625,1.0,False
+TabNet,XGBoost,-0.3333333333333333,0.625,1.0,False
+Ada Boost,Stacking,0.2,0.8125,1.0,False
+CatBoost,Gradient Boosting,0.2,0.8125,1.0,False
+Decision Tree,KNN,-0.2,0.8125,1.0,False
+KNN,TabNet,-0.2,0.8125,1.0,False
+CNN,Logistic Regression,-0.06666666666666667,1.0,1.0,False
+CNN,SVM,0.06666666666666667,1.0,1.0,False
+CatBoost,LightGBM,0.06666666666666667,1.0,1.0,False
+Gradient Boosting,LightGBM,-0.06666666666666667,1.0,1.0,False
+LightGBM,Random Forest,0.06666666666666667,1.0,1.0,False
+LightGBM,Stacking,-0.06666666666666667,1.0,1.0,False
+MLP,SVM,-0.06666666666666667,1.0,1.0,False

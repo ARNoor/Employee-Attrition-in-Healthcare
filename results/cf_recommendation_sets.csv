@@ -1,0 +1,16 @@
+Recommendation_Set,Frequency
+"DailyRate[dec], Shift[inc]",22
+"DailyRate[inc], Shift[inc]",22
+"DailyRate[inc], OverTime[dec]",10
+"DailyRate[dec], OverTime[dec]",8
+"DailyRate[dec], OverTime[dec], Shift[inc]",6
+"OverTime[dec], Shift[inc]",6
+"DailyRate[inc], JobInvolvement[inc]",5
+"DailyRate[inc], OverTime[dec], Shift[inc]",4
+OverTime[dec],3
+"DailyRate[dec], JobInvolvement[inc]",2
+DailyRate[inc],1
+"DailyRate[inc], JobInvolvement[inc], OverTime[dec]",1
+"JobInvolvement[dec], OverTime[dec]",1
+"JobInvolvement[inc], OverTime[dec]",1
+Shift[inc],1

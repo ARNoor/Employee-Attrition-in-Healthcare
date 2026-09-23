@@ -1,0 +1,7 @@
+N,Common_Features,Common_Size,Feasible_Set,Feasible_Size
+32,Age; BusinessTravel; DailyRate; Department_Maternity; DistanceFromHome; Education; JobInvolvement; JobRole_Administrative; JobRole_Therapist; MonthlyIncome; MonthlyRate; NumCompaniesWorked; OverTime; Shift; TotalWorkingYears; WorkLifeBalance; YearsInCurrentRole; YearsSinceLastPromotion,18,DailyRate; JobInvolvement; MonthlyRate; OverTime; Shift; YearsSinceLastPromotion,6
+16,Age; BusinessTravel; DailyRate; Department_Maternity; DistanceFromHome; Education; JobInvolvement; JobRole_Therapist; MonthlyIncome; NumCompaniesWorked; OverTime; Shift; TotalWorkingYears; YearsInCurrentRole,14,DailyRate; JobInvolvement; OverTime; Shift,4
+14,Age; BusinessTravel; DailyRate; Department_Maternity; DistanceFromHome; JobInvolvement; JobRole_Therapist; MonthlyIncome; NumCompaniesWorked; OverTime; Shift; TotalWorkingYears; YearsInCurrentRole,13,DailyRate; JobInvolvement; OverTime; Shift,4
+12,Age; DailyRate; JobInvolvement; JobRole_Therapist; MonthlyIncome; NumCompaniesWorked; OverTime; Shift; YearsInCurrentRole,9,DailyRate; JobInvolvement; OverTime; Shift,4
+10,Age; JobInvolvement; JobRole_Therapist; MonthlyIncome; NumCompaniesWorked; OverTime; Shift,7,JobInvolvement; OverTime; Shift,3
+8,Age; JobInvolvement; NumCompaniesWorked; OverTime; Shift,5,JobInvolvement; OverTime; Shift,3

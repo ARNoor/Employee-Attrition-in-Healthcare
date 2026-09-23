@@ -1,0 +1,24 @@
+# Pinned from the project environment (Python 3.12). Core
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Explainability
+lime==0.2.0.1
+shap==0.52.0
+dice_ml==0.12
+raiutils==0.4.2
+
+# Models
+catboost==1.2.10
+lightgbm==4.7.0
+xgboost==3.4.1
+torch==2.14.0
+pytorch-tabnet==4.1.0
+
+# Notebook execution
+jupyter==1.1.1

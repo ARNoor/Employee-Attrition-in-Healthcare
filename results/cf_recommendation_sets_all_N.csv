@@ -1,0 +1,91 @@
+Recommendation_Set,Frequency,N
+"MonthlyRate[dec], Shift[inc]",12,32
+"Shift[inc], YearsSinceLastPromotion[inc]",11,32
+"MonthlyRate[inc], Shift[inc]",7,32
+"Shift[inc], YearsSinceLastPromotion[dec]",7,32
+"DailyRate[inc], OverTime[dec]",6,32
+"DailyRate[inc], Shift[inc]",6,32
+"MonthlyRate[dec], OverTime[dec]",6,32
+"DailyRate[dec], OverTime[dec]",4,32
+"DailyRate[dec], Shift[inc]",4,32
+"OverTime[dec], YearsSinceLastPromotion[dec]",4,32
+"DailyRate[inc], OverTime[dec], Shift[inc]",3,32
+"MonthlyRate[inc], OverTime[dec]",3,32
+"OverTime[dec], Shift[inc]",3,32
+"OverTime[dec], YearsSinceLastPromotion[inc]",3,32
+"MonthlyRate[dec], OverTime[dec], Shift[inc]",2,32
+"DailyRate[dec], JobInvolvement[inc]",1,32
+"DailyRate[dec], OverTime[dec], Shift[inc]",1,32
+DailyRate[inc],1,32
+"DailyRate[inc], JobInvolvement[inc]",1,32
+"DailyRate[inc], MonthlyRate[dec]",1,32
+"JobInvolvement[dec], Shift[inc]",1,32
+"JobInvolvement[inc], MonthlyRate[dec]",1,32
+"JobInvolvement[inc], OverTime[dec]",1,32
+"JobInvolvement[inc], OverTime[dec], Shift[inc]",1,32
+"JobInvolvement[inc], YearsSinceLastPromotion[dec]",1,32
+"MonthlyRate[inc], OverTime[dec], Shift[inc]",1,32
+"OverTime[dec], Shift[inc], YearsSinceLastPromotion[inc]",1,32
+"DailyRate[dec], Shift[inc]",22,16
+"DailyRate[inc], Shift[inc]",22,16
+"DailyRate[inc], OverTime[dec]",10,16
+"DailyRate[dec], OverTime[dec]",8,16
+"DailyRate[dec], OverTime[dec], Shift[inc]",6,16
+"OverTime[dec], Shift[inc]",6,16
+"DailyRate[inc], JobInvolvement[inc]",5,16
+"DailyRate[inc], OverTime[dec], Shift[inc]",4,16
+OverTime[dec],3,16
+"DailyRate[dec], JobInvolvement[inc]",2,16
+DailyRate[inc],1,16
+"DailyRate[inc], JobInvolvement[inc], OverTime[dec]",1,16
+"JobInvolvement[dec], OverTime[dec]",1,16
+"JobInvolvement[inc], OverTime[dec]",1,16
+Shift[inc],1,16
+"DailyRate[dec], Shift[inc]",22,14
+"DailyRate[inc], Shift[inc]",22,14
+"DailyRate[inc], OverTime[dec]",10,14
+"DailyRate[dec], OverTime[dec]",8,14
+"DailyRate[dec], OverTime[dec], Shift[inc]",6,14
+"OverTime[dec], Shift[inc]",6,14
+"DailyRate[inc], JobInvolvement[inc]",5,14
+"DailyRate[inc], OverTime[dec], Shift[inc]",4,14
+OverTime[dec],3,14
+"DailyRate[dec], JobInvolvement[inc]",2,14
+DailyRate[inc],1,14
+"DailyRate[inc], JobInvolvement[inc], OverTime[dec]",1,14
+"JobInvolvement[dec], OverTime[dec]",1,14
+"JobInvolvement[inc], OverTime[dec]",1,14
+Shift[inc],1,14
+"DailyRate[dec], Shift[inc]",22,12
+"DailyRate[inc], Shift[inc]",22,12
+"DailyRate[inc], OverTime[dec]",10,12
+"DailyRate[dec], OverTime[dec]",8,12
+"DailyRate[dec], OverTime[dec], Shift[inc]",6,12
+"OverTime[dec], Shift[inc]",6,12
+"DailyRate[inc], JobInvolvement[inc]",5,12
+"DailyRate[inc], OverTime[dec], Shift[inc]",4,12
+OverTime[dec],3,12
+"DailyRate[dec], JobInvolvement[inc]",2,12
+DailyRate[inc],1,12
+"DailyRate[inc], JobInvolvement[inc], OverTime[dec]",1,12
+"JobInvolvement[dec], OverTime[dec]",1,12
+"JobInvolvement[inc], OverTime[dec]",1,12
+Shift[inc],1,12
+Shift[inc],40,10
+"OverTime[dec], Shift[inc]",19,10
+"JobInvolvement[inc], OverTime[dec]",9,10
+"JobInvolvement[inc], Shift[inc]",7,10
+JobInvolvement[inc],5,10
+OverTime[dec],5,10
+"JobInvolvement[inc], OverTime[dec], Shift[inc]",4,10
+"JobInvolvement[dec], OverTime[dec], Shift[inc]",3,10
+"JobInvolvement[dec], Shift[inc]",1,10
+Shift[inc],40,8
+"OverTime[dec], Shift[inc]",19,8
+"JobInvolvement[inc], OverTime[dec]",9,8
+"JobInvolvement[inc], Shift[inc]",7,8
+JobInvolvement[inc],5,8
+OverTime[dec],5,8
+"JobInvolvement[inc], OverTime[dec], Shift[inc]",4,8
+"JobInvolvement[dec], OverTime[dec], Shift[inc]",3,8
+"JobInvolvement[dec], Shift[inc]",1,8
